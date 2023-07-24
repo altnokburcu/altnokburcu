@@ -1,19 +1,24 @@
 # ✨ Hi there!
 
-🔭 I'm currently open to new job opportunities
+🔭 I'm Java Backend Developer with industry experience E-commerce projects for over 4 years
+
 👯 I’m looking to collaborate on Backend Development
-📝 I regulary write articles on [https://medium.com/](https://medium.com/@altnokburcu)
+
+📝 I regulary write articles on (https://medium.com/@altnokburcu)
+
 💬 Ask me about Java, Spring, SAP Commerce Cloud, CommerceTools
+
 📫 burcualtnok@gmail.com
 
 # 💻 Tech Stack:
-Java
-Spring Framework
-TypeScript
-MySQL
-Solr
-GraphQL
-SAP Commerce Cloud
+- Java
+- Spring Framework
+- TypeScript
+- MySQL
+- Solr
+- GraphQL
+- SAP Commerce Cloud
+  
 
 
 # 📊 GitHub Stats:
